@@ -38,8 +38,8 @@ To get a local copy up and running follow these simple steps.
    ## Roadmap
    - [x] Normalize urls
    - [x] Ignore status codes above 399 (server/client rejection)
-   - [x] Custom user-agent
-   - [x] Ignore non HTMl related content
+   - [x] Custom user agent
+   - [x] Ignore non HTML related content
    - [x] Automatically go to next linked page
    - [x] Ignore already loaded page
    - [x] Count times link is linked to
