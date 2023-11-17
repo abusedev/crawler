@@ -5,7 +5,7 @@
   <h3 align="center">methane.wtf crawler</h3>
   <p align="center">
     This is a web crawler that uses HTML parsing to detect links on a website, at the end it will list all links on the site and how many times that link is linked to in total. 
-       <a href="https://nodejs.org/en/download/current">what is a web crawler?</a>
+       <a href="https://en.wikipedia.org/wiki/Web_crawler">what is a web crawler?</a>
   </p>
 </div>
 
