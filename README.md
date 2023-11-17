@@ -8,7 +8,7 @@
 </div>
 
 ### Built With
-* [![Node][Node.js]][<img src="[https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)" width="80" height="80">]
+* <img src="[https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)" alt="Logo" width="80" height="80">
 
 
 ## Licensing 
