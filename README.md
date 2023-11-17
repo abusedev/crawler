@@ -49,7 +49,12 @@ To get a local copy up and running follow these simple steps.
    - [ ] Colored coated logs
    - [ ] Executable version?
 
-### Acknowledgments
+## Issues/Contribution
+Are you experiencing a bug? Head [here](https://github.com/methanewtf/crawler/issues)
+<br>
+Do you want to contribute? Feel free to open a pull request [here](https://github.com/methanewtf/crawler/pulls)
+
+## Acknowledgments
 <div>
     <a href="https://nodejs.org/en/download/current">node.js</a> - run javascript on the CLI
     <br>
