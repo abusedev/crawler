@@ -20,7 +20,9 @@
 ### Acknowledgments
 <div>
     <a href="https://nodejs.org/en/download/current">node.js</a> - run javascript on the CLI
+    <br>
     <a href="https://www.npmjs.com/package/jest">jest</a> - handles our function testing
+    <br>
     <a href="https://www.npmjs.com/package/jsdom">jsdom</a> - handles HTML
 </div>
 
