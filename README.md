@@ -1,4 +1,4 @@
-# crawler
+# methane.wtf crawler
 This is a web crawler that can detect links on a website, at the end it will list all links on the site and how many times that link is linked to in total. 
 
 
