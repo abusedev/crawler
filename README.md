@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple steps.
    - [ ] Cloudflare bypass (requires changing from fetch to a curl probably)
    - [ ] Rate limit respecter
    - [ ] Save results to file
-   - [ ] Settings
+   - [x] User settings
    - [ ] Colored coated logs
    - [ ] Executable build
 
