@@ -50,10 +50,14 @@ To get a local copy up and running follow these simple steps.
    - [ ] Colored coated logs
    - [ ] Executable build
 
-## Issues/Contribution
+## Contribution
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. You can make a pull request [here](https://github.com/methanewtf/crawler/pulls)
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an [issue](https://github.com/methanewtf/crawler/issues) with the tag "enhancement".
+Don't forget to give the project a star!
+
+## Issues
 Are you experiencing a bug? Head [here](https://github.com/methanewtf/crawler/issues)
-<br>
-Do you want to contribute? Feel free to open a pull request [here](https://github.com/methanewtf/crawler/pulls)
 
 ## Acknowledgments
 <div>
