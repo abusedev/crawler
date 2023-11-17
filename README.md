@@ -49,7 +49,7 @@ To get a local copy up and running follow these simple steps.
    - [ ] Rate limit respecter
    - [ ] Save results to file
    - [x] User settings
-   - [ ] Colored coated logs
+   - [ ] Color coated logs
    - [ ] Executable build
 
 ## Contribution
