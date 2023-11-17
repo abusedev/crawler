@@ -20,9 +20,6 @@
 ## Getting Started
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-Once you have node.js installed, you will need to install the packages we use
-
 ### Installation
 1. Find a website that does NOT use cloudflare [google](https://google.com)
 2. Clone the repo (or download manually)
