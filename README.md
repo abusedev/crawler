@@ -17,6 +17,27 @@
     </p>
 </div>
 
+## Getting Started
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+Once you have node.js installed, you will need to install the packages we use
+
+### Installation
+1. Find a website that does NOT use cloudflare [google](https://google.com)
+2. Clone the repo (or download manually)
+   ```sh
+   git clone https://github.com/methanewtf/crawler.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Run the program
+  ```sh
+   npm start https://google.com
+   ```
+
 ### Acknowledgments
 <div>
     <a href="https://nodejs.org/en/download/current">node.js</a> - run javascript on the CLI
