@@ -9,7 +9,7 @@
 
 ### Built With
 <div align="left">
-    * <img src="[https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)" alt="Logo" width="80" height="80">
+    * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 
