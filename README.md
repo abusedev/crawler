@@ -45,6 +45,7 @@ To get a local copy up and running follow these simple steps.
    - [x] Count times link is linked to
    - [x] Visually pleasing and readble log messages
    - [ ] Cloudflare bypass (requires changing from fetch to a curl probably)
+   - [ ] Rate limit respecter
    - [ ] Save results to file
    - [ ] Settings
    - [ ] Colored coated logs
