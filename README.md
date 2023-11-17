@@ -10,8 +10,8 @@
 ### Built With
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Logo" width="300" height="300">
+     Our webscraper can be ran on any machine so long you install our [requirements](https://nodejs.org/en/download/current)
 </div>
- Our webscraper can be ran on any machine so long you install our [requirements](https://nodejs.org/en/download/current)
 
 
 
