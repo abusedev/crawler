@@ -79,7 +79,7 @@ Permissions
 * ✔️ Private use
 <br></br>
 
-Conditions
+Release conditions
 * ❕ License and copyright notice
 * ❕ State changes
 * ❕ Disclose source
