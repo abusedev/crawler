@@ -30,6 +30,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm install
    ```
+   If "npm" does not appear as a command and you just installed node.js, try restarting your device
 4. Run the program
    ```sh
    npm start https://google.com
