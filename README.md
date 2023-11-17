@@ -9,8 +9,11 @@
 
 ### Built With
 <div align="left">
-    * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Logo" width="80" height="80">
   </a>
+    <p align="center">
+    Our webscraper can be ran on any machine so long you install our requirements
+  </p>
 </div>
 
 
