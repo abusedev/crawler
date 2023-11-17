@@ -17,6 +17,13 @@
     </p>
 </div>
 
+### Acknowledgments
+<div>
+    <a href="https://nodejs.org/en/download/current">node.js</a> - run javascript on the CLI
+    <a href="https://www.npmjs.com/package/jest">jest</a> - handles our function testing
+    <a href="https://www.npmjs.com/package/jsdom">jsdom</a> - handles HTML
+</div>
+
 
 
 ## Licensing 
