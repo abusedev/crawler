@@ -35,6 +35,20 @@ To get a local copy up and running follow these simple steps.
    npm start https://google.com
    ```
 
+   ## Roadmap
+   - [x] Normalize urls
+   - [x] Ignore status codes above 399 (server/client rejection)
+   - [x] Custom user-agent
+   - [x] Ignore non HTMl related content
+   - [x] Automatically go to next linked page
+   - [x] Ignore already loaded page
+   - [x] Count times link is linked to
+   - [x] Visually pleasing and readble log messages
+   - [ ] Save results to file
+   - [ ] Settings
+   - [ ] Colored coated logs
+   - [ ] Executable version?
+
 ### Acknowledgments
 <div>
     <a href="https://nodejs.org/en/download/current">node.js</a> - run javascript on the CLI
