@@ -1,5 +1,11 @@
-# methane.wtf crawler
-This is a web crawler that can detect links on a website, at the end it will list all links on the site and how many times that link is linked to in total. 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">methane.wtf crawler</h3>
+  <p align="center">
+    This is a web crawler that can detect links on a website, at the end it will list all links on the site and how many times that link is linked to in total. 
+  </p>
+</div>
 
 
 ## Licensing 
