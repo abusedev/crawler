@@ -26,8 +26,6 @@
     <a href="https://www.npmjs.com/package/jsdom">jsdom</a> - handles HTML
 </div>
 
-
-
 ## Licensing 
 Permissions
 * ✔️ Commercial use
