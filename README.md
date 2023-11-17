@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png" alt="Logo" width="200" height="100">
   </a>
   <h3 align="center">methane.wtf crawler</h3>
   <p align="center">
