@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple steps.
    - [ ] Save results to file
    - [ ] Settings
    - [ ] Colored coated logs
-   - [ ] Executable version?
+   - [ ] Executable build
 
 ## Issues/Contribution
 Are you experiencing a bug? Head [here](https://github.com/methanewtf/crawler/issues)
