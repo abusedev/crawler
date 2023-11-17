@@ -27,7 +27,6 @@
 </div>
 
 ## Licensing 
-<div>
 Permissions
 * ✔️ Commercial use
 * ✔️ Modification
@@ -48,4 +47,3 @@ Limitations
 <br></br>
 
 License being used: **GNU General Public License v2.0 license**
-</div>
