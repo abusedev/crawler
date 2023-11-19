@@ -1,0 +1,19 @@
+{
+  "name": "methane-crawler",
+  "version": "1.0.0",
+  "description": "Crawl websites to gather data, best used on a VPS but can be run locally",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node --no-warnings app.js",
+    "test": "jest"
+  },
+  "author": "romance",
+  "license": "GNU General Public License v2.0 license",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^22.1.0"
+  }
+}
