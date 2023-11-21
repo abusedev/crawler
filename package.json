@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node --no-warnings app.js",
+    "settings": "node --no-warnings settings.js",
     "test": "jest"
   },
   "author": "romance",
