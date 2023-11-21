@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple steps.
 
 4. Create config type
     ```sh
-    npm run setttings silent
+    npm run settings silent
     ```
 5. Run the program
    ```sh
