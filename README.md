@@ -32,7 +32,12 @@ To get a local copy up and running follow these simple steps.
    npm install
    ```
    If "npm" does not appear as a command and you just installed node.js, try restarting your device
-4. Run the program
+
+4. Create config type
+    ```sh
+    npm run setttings silent
+    ```
+5. Run the program
    ```sh
    npm start https://google.com
    ```
