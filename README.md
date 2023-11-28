@@ -1,6 +1,6 @@
 ## kamishiro.dev
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kamishirodev/crawler/main/skull.png" alt="Logo" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/kamishirodev/crawler/main/kami.png" alt="Logo" width="400" height="400">
   </a>
   <h3 align="center">kamishiro.dev crawler</h3>
   <p align="center">
