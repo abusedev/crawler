@@ -1,8 +1,8 @@
-## Methane.wtf 
+## kamishiro.dev
 <div align="center">
-    <img src="https://raw.githubusercontent.com/methanewtf/crawler/main/skull.png" alt="Logo" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/kamishirodev/crawler/main/skull.png" alt="Logo" width="400" height="400">
   </a>
-  <h3 align="center">methane.wtf crawler</h3>
+  <h3 align="center">kamishiro.dev crawler</h3>
   <p align="center">
     This is a web crawler that uses HTML parsing to detect links on a website, at the end it will list all links on the site and how many times that link is linked to in total. 
        <a href="https://en.wikipedia.org/wiki/Web_crawler">what is a web crawler?</a>
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple steps.
 1. Find a website that does NOT use cloudflare [google](https://google.com)
 2. Clone the repo (or download manually)
    ```sh
-   git clone https://github.com/methanewtf/crawler.git
+   git clone https://github.com/kamishirodev/crawler.git
    ```
 3. Install NPM packages
    ```sh
@@ -59,13 +59,13 @@ To get a local copy up and running follow these simple steps.
    - [ ] Executable build
 
 ## Contribution
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. You can make a pull request [here](https://github.com/methanewtf/crawler/pulls)
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. You can make a pull request [here](https://github.com/kamishirodev/crawler/pulls)
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an [issue](https://github.com/methanewtf/crawler/issues) with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an [issue](https://github.com/kamishirodev/crawler/issues) with the tag "enhancement".
 Don't forget to give the project a star!
 
 ## Issues
-Are you experiencing a bug? Head [here](https://github.com/methanewtf/crawler/issues)
+Are you experiencing a bug? Head [here](https://github.com/kamishirodev/crawler/issues)
 
 ## Acknowledgments
 <div>
