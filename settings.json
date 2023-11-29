@@ -1,5 +1,5 @@
 {
-    "logCrawls": true,
-    "logIssues": false,
-    "printResult": false
+"logCrawls": true,
+"logIssues": false,
+"printResult": true
 }

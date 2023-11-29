@@ -27,7 +27,7 @@ async function crawl(start, current, pages)
       // the default headers are fine, but it sends a cool name to the server instead of "chrome"
       let headers = new Headers
       ({
-        "User-Agent"   : "methane.wtf crawler"
+        "User-Agent"   : "kamishiro.dev crawler"
       });
       const response = await fetch(current, 
       {
@@ -64,7 +64,7 @@ async function crawl(start, current, pages)
     {
       if (settings.logIssues)
       {
-        logger.debugLog("methane", `An error occured doing a web crawl: ${ex.message}`);
+        logger.debugLog("kamishiro", `An error occured doing a web crawl: ${ex.message}`);
       }
     }
     return pages;

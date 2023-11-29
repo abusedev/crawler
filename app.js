@@ -1,3 +1,4 @@
+const path = require('path');
 const logger = require('./handler/prettylog.js');
 const crawler = require('./handler/crawler.js');
 const save = require('./handler/save.js');
@@ -8,12 +9,12 @@ async function entry()
     console.clear();
     if (process.argv.length < 3)
     {
-        logger.debugLog("methane", "Please enter a url to crawl. Usage: npm start https://google.com");
+        logger.debugLog("kamishiro  ", "Please enter a url to crawl. Usage: npm start https://google.com");
         process.exit(1);
     }
     if (process.argv.length > 3)
     {
-        logger.debugLog("methane", "Please only enter one url. Usage: npm start https://google.com");
+        logger.debugLog("kamishiro  ", "Please only enter one url. Usage: npm start https://google.com");
         process.exit(1);
     }
     else
@@ -26,7 +27,12 @@ async function entry()
             {
                 save.printLog(pages);
             }
-            save.saveFile(pages);
+            try
+            {
+                save.saveFile(pages);
+            }
+            catch
+            {}
             //for (var page of Object.entries(pages)) // if you just do "pages", it will not work.
             //{
              //console.log(page);   
@@ -34,7 +40,7 @@ async function entry()
         }
         else
         {
-            logger.debugLog("methane", `Please make sure to use https:// or http://`);
+            logger.debugLog("kamishiro  ", `Please make sure to use https:// or http://`);
             return;
         }
     }

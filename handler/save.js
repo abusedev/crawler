@@ -37,13 +37,16 @@ function printLog(pages)
         console.log(`Found ${hits} links linked to page ${url}`);
     }
     console.log("========================================================================")
-    logger.debugLog("methane", "Finished crawling");
+    logger.debugLog("kamishiro", "Finished crawling");
 }
 
 function saveFile(pages)
 {
     var path = process.cwd();
-    fs.writeFileSync(`${path}/crawl.log`, `========================================================================\n                       methane.wtf crawler\n========================================================================\n${getEach(pages)}`);
+    var writeStream = fs.createWriteStream(`${path}/crawl.log`);
+    writeStream.write(`========================================================================\n                       kamishiro.wtf crawler\n========================================================================)\n`);
+    writeStream.write(`${getEach(pages)}\n`);
+    writeStream.end();
 }
 
 module.exports =
