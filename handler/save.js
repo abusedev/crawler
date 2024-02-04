@@ -37,14 +37,14 @@ function printLog(pages)
         console.log(`Found ${hits} links linked to page ${url}`);
     }
     console.log("========================================================================")
-    logger.debugLog("kamishiro", "Finished crawling");
+    logger.debugLog("abuse", "Finished crawling");
 }
 
 function saveFile(pages)
 {
     var path = process.cwd();
     var writeStream = fs.createWriteStream(`${path}/crawl.log`);
-    writeStream.write(`========================================================================\n                       kamishiro.wtf crawler\n========================================================================)\n`);
+    writeStream.write(`========================================================================\n                       @buse crawler\n========================================================================)\n`);
     writeStream.write(`${getEach(pages)}\n`);
     writeStream.end();
 }

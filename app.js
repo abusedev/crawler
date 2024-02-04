@@ -9,12 +9,12 @@ async function entry()
     console.clear();
     if (process.argv.length < 3)
     {
-        logger.debugLog("kamishiro  ", "Please enter a url to crawl. Usage: npm start https://google.com");
+        logger.debugLog("abuse", "Please enter a url to crawl. Usage: npm start https://google.com");
         process.exit(1);
     }
     if (process.argv.length > 3)
     {
-        logger.debugLog("kamishiro  ", "Please only enter one url. Usage: npm start https://google.com");
+        logger.debugLog("abuse", "Please only enter one url. Usage: npm start https://google.com");
         process.exit(1);
     }
     else
@@ -40,7 +40,7 @@ async function entry()
         }
         else
         {
-            logger.debugLog("kamishiro  ", `Please make sure to use https:// or http://`);
+            logger.debugLog("abuse  ", `Please make sure to use https:// or http://`);
             return;
         }
     }

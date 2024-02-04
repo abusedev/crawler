@@ -1,5 +1,5 @@
 {
-  "name": "kamishiro-crawler",
+  "name": "abuse-crawler",
   "version": "1.0.0",
   "description": "Crawl websites to gather data, best used on a VPS but can be run locally",
   "main": "app.js",

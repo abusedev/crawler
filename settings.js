@@ -6,12 +6,12 @@ function entry()
     console.clear();
     if (process.argv.length < 3)
     {
-        logger.debugLog("kamishiro", "Please enter a settings type. Usage: Silent, Errors, Crawls, Results");
+        logger.debugLog("abuse", "Please enter a settings type. Usage: Silent, Errors, Crawls, Results");
         process.exit(1);
     }
     if (process.argv.length > 3)
     {
-        logger.debugLog("kamishiro", "Please only enter one type. Usage: Silent, Errors, Crawls, Results");
+        logger.debugLog("abuse", "Please only enter one type. Usage: Silent, Errors, Crawls, Results");
         process.exit(1);
     }
     var type = process.argv[2].toLowerCase();
@@ -30,10 +30,10 @@ function entry()
             saveSettingsFile(false, false, true);
         break;
         default:
-            logger.debugLog("kamishiro", "Please enter a correct settings type");
+            logger.debugLog("abuse", "Please enter a correct settings type");
         return;
     }
-    logger.debugLog("kamishiro", `Created ${type} settings`);
+    logger.debugLog("abuse", `Created ${type} settings`);
 }
 
 function saveSettingsFile(logCrawls, logIssues, printResult)
