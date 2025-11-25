@@ -1,6 +1,6 @@
 ## @buse
 <div align="center">
-    <img src="https://raw.githubusercontent.com/abusedev/crawler/main/abuse.png" alt="Logo" width="400" height="400">
+<img src="https://raw.githubusercontent.com/abusedev/.github/refs/heads/main/profile/largevariation.png" alt="Logo" width="400" height="400">
   </a>
   <h3 align="center">@buse crawler</h3>
   <p align="center">
